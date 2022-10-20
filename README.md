@@ -1,3 +1,12 @@
+# Repo Frontend Sementara
+
+Repo Backend: https://github.com/Daniel-Ri/node-js-express-upload-download-files
+
+Run the program:
+```
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
